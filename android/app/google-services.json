@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "556225309403",
+    "project_id": "signinwith-229b5",
+    "storage_bucket": "signinwith-229b5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:556225309403:android:dabac8232cf7d3e8d23afe",
+        "android_client_info": {
+          "package_name": "com.example.tracking_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "556225309403-hsm9fl33fiog96s45va5gvmifkji6bdu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeOZoE0uJSfuMquMwbYoLPCnlcbU9AgKE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "556225309403-hsm9fl33fiog96s45va5gvmifkji6bdu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
